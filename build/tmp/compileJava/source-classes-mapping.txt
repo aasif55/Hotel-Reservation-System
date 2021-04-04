@@ -1,0 +1,10 @@
+Rate.java
+ Rate
+CustomerType.java
+ CustomerType
+Hotel.java
+ Hotel
+HotelReservationService.java
+ HotelReservationService
+Result.java
+ Result
